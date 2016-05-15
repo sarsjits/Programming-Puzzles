@@ -22,6 +22,8 @@
 using namespace std;
 
 void zigzag(const string s, int rows) {
+	if(rows == 1)
+		return s;
 	int n = s.size();
 	bool down = true;
 	int row = 0;
@@ -44,7 +46,7 @@ void zigzag(const string s, int rows) {
 
 int main() {
 	string str = "JITENDRASARSWAT";
-	int rows = 3;
+	int rows = 1;
 	zigzag(str,rows);
 	return 0;
 }
