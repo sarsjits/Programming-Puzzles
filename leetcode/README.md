@@ -1,10 +1,10 @@
 # Leetcode Solutions
 
-This repository contains **16** problem's solution. The problems are mentioned in the table below:
+This repository contains **18** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
-1 | [Two Sum] (https://leetcode.com/problems/two-sum/) | C++ | Easy
+1 | [Two Sum] (https://leetcode.com/problems/two-sum/) | C++ [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P001S01.cpp), [Solution 02] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P001S02.cpp) | Easy
 2 | [ZigZag Conversion] (https://leetcode.com/problems/zigzag-conversion/) | C++ | Easy
 3 | [Reverse Integer] (https://leetcode.com/problems/reverse-integer/) | C++ | Easy
 4 | [String to Integer (atoi) ] (https://leetcode.com/problems/string-to-integer-atoi/) | C++ | Easy
