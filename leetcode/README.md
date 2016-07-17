@@ -20,3 +20,5 @@ S.No.|Problem | Implementation | Difficulty
 14 | [Number of 1 Bits] (https://leetcode.com/problems/number-of-1-bits/) | C++ | Easy
 15 | [Power of Two] (https://leetcode.com/problems/power-of-two/) | C++ | Easy
 16 | [Power of Four] (https://leetcode.com/problems/power-of-four/) | C++ | Easy
+17 | [Sum of Two Integers] (https://leetcode.com/problems/sum-of-two-integers/) | C++ | Easy
+18 | [Guess Number Higher or Lower] (https://leetcode.com/problems/guess-number-higher-or-lower/) | C++ | Easy
