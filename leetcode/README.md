@@ -16,6 +16,9 @@ S.No.|Problem | Implementation | Difficulty
 027 | [Remove Element] (https://leetcode.com/problems/remove-element/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P027S01.cpp), [Solution 02] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P027S02.cpp) | Easy
 028 | [Implement strStr()] (https://leetcode.com/problems/implement-strstr/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P028S01.cpp) | Easy
 038 | [Count and Say] (https://leetcode.com/problems/count-and-say/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P038S01.cpp) | Easy
+066 | [Plus One] (https://leetcode.com/problems/plus-one/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P066S01.cpp) | Easy 
+118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
+119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
 190 | [Reverse Bits] (https://leetcode.com/problems/reverse-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P190S01.cpp) | Easy
 191 | [Number of 1 Bits] (https://leetcode.com/problems/number-of-1-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P191S01.cpp) | Easy
 231 | [Power of Two] (https://leetcode.com/problems/power-of-two/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P231S01.cpp) | Easy
