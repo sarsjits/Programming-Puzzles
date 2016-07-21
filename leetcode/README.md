@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **24** problem's solution. The problems are mentioned in the table below:
+This repository contains **26** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -16,9 +16,11 @@ S.No.|Problem | Implementation | Difficulty
 027 | [Remove Element] (https://leetcode.com/problems/remove-element/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P027S01.cpp), [Solution 02] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P027S02.cpp) | Easy
 028 | [Implement strStr()] (https://leetcode.com/problems/implement-strstr/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P028S01.cpp) | Easy
 038 | [Count and Say] (https://leetcode.com/problems/count-and-say/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P038S01.cpp) | Easy
+058 | [Length of Last Word] (https://leetcode.com/problems/length-of-last-word/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P058S01.cpp) | Easy
 066 | [Plus One] (https://leetcode.com/problems/plus-one/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P066S01.cpp) | Easy 
 118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
 119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
+125 | [Valid Palindrome] (https://leetcode.com/problems/valid-palindrome/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P125S01.cpp) | Easy
 169 | [Majority Element] (https://leetcode.com/problems/majority-element/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P169S01.cpp) | Easy
 189 | [Rotate Array] (https://leetcode.com/problems/rotate-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P189S01.cpp) | Easy
 190 | [Reverse Bits] (https://leetcode.com/problems/reverse-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P190S01.cpp) | Easy
