@@ -23,6 +23,7 @@ S.No.|Problem | Implementation | Difficulty
 118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
 119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
 125 | [Valid Palindrome] (https://leetcode.com/problems/valid-palindrome/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P125S01.cpp) | Easy
+160 | [Intersection of Two Linked Lists] (https://leetcode.com/problems/intersection-of-two-linked-lists/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P160S01.cpp) | Easy
 169 | [Majority Element] (https://leetcode.com/problems/majority-element/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P169S01.cpp) | Easy
 189 | [Rotate Array] (https://leetcode.com/problems/rotate-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P189S01.cpp) | Easy
 190 | [Reverse Bits] (https://leetcode.com/problems/reverse-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P190S01.cpp) | Easy
