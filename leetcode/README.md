@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **27** problem's solution. The problems are mentioned in the table below:
+This repository contains **28** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -12,6 +12,7 @@ S.No.|Problem | Implementation | Difficulty
 014 | [Longest Common Prefix] (https://leetcode.com/problems/longest-common-prefix/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P014S01.cpp), [Solution 02] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P014S02.cpp) | Easy
 019 | [Remove Nth Node From End of List] (https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P019S01.cpp) | Easy
 020 | [Valid Parantheses] (https://leetcode.com/problems/valid-parentheses/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P020S01.cpp) | Easy
+021 | [Merge Two Sorted Lists] (https://leetcode.com/problems/merge-two-sorted-lists/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P021S01.cpp) | Easy
 026 | [Remove Duplicates From Sorted Array] (https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P026S01.cpp) | Easy
 027 | [Remove Element] (https://leetcode.com/problems/remove-element/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P027S01.cpp), [Solution 02] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P027S02.cpp) | Easy
 028 | [Implement strStr()] (https://leetcode.com/problems/implement-strstr/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P028S01.cpp) | Easy
