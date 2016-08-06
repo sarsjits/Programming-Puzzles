@@ -13,6 +13,7 @@ It also contains the problems from some of the Online Judges such as:
 - [Leetcode]
 - [Codechef]
 
+Solved with love by [Jitendra Sarswat] (www.sarsjits.in)
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 [Array]: <https://github.com/sarsjits/Programming-Puzzles/tree/master/array>
 [Binary Tree]: <https://github.com/sarsjits/Programming-Puzzles/tree/master/binary-tree>
