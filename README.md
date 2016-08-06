@@ -1,4 +1,4 @@
-# Programming Puzzles ![Language](https://img.shields.io/badge/language-C%2B%2B-brightgreen.svg) ![Compiler](https://img.shields.io/badge/Compiler-g%2B%2B-blue.svg)
+# Programming Puzzles ![Language](https://img.shields.io/badge/language-C%2B%2B-brightgreen.svg) ![Compiler](https://img.shields.io/badge/Compiler-g%2B%2B-blue.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 
 The repository that contains numerous problems that are focussed on Data Structures and Algorithms which are also good resource to prepare for technical interviews.
 
