@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **39** problem's solution. The problems are mentioned in the table below:
+This repository contains **40** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -32,7 +32,8 @@ S.No.|Problem | Implementation | Difficulty
 191 | [Number of 1 Bits] (https://leetcode.com/problems/number-of-1-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P191S01.cpp) | Easy
 202 | [Happy Numbers] (https://leetcode.com/problems/happy-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P202S01.cpp) | Easy
 203 | [Remove Linked List Elements] (https://leetcode.com/problems/remove-linked-list-elements/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P203S01.cpp) | Easy
-204 | [Reverse Linked List] (https://leetcode.com/problems/reverse-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P206S01.cpp) | Easy
+204 | [Count Primes] (https://leetcode.com/problems/count-primes/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P204S01.cpp) | Easy
+206 | [Reverse Linked List] (https://leetcode.com/problems/reverse-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P206S01.cpp) | Easy
 228 | [Summary Ranges] (https://leetcode.com/problems/summary-ranges/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P228S01.cpp) | Easy
 231 | [Power of Two] (https://leetcode.com/problems/power-of-two/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P231S01.cpp) | Easy
 232 | [Implement Queue using Stacks] (https://leetcode.com/problems/implement-queue-using-stacks/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P232S01.cpp) | Easy
