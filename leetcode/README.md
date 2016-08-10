@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **42** problem's solution. The problems are mentioned in the table below:
+This repository contains **43** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -36,6 +36,7 @@ S.No.|Problem | Implementation | Difficulty
 205 | [Isomorphic Strings] (https://leetcode.com/problems/isomorphic-strings/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P205S01.cpp) | Easy
 206 | [Reverse Linked List] (https://leetcode.com/problems/reverse-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P206S01.cpp) | Easy
 217 | [Contains Duplicates] (https://leetcode.com/problems/contains-duplicate/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P217S01.cpp) | Easy
+219 | [Contains Duplicate II] (https://leetcode.com/problems/contains-duplicate-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P219S01.cpp) | Easy
 228 | [Summary Ranges] (https://leetcode.com/problems/summary-ranges/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P228S01.cpp) | Easy
 231 | [Power of Two] (https://leetcode.com/problems/power-of-two/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P231S01.cpp) | Easy
 232 | [Implement Queue using Stacks] (https://leetcode.com/problems/implement-queue-using-stacks/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P232S01.cpp) | Easy
