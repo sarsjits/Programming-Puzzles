@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **40** problem's solution. The problems are mentioned in the table below:
+This repository contains **41** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -33,6 +33,7 @@ S.No.|Problem | Implementation | Difficulty
 202 | [Happy Numbers] (https://leetcode.com/problems/happy-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P202S01.cpp) | Easy
 203 | [Remove Linked List Elements] (https://leetcode.com/problems/remove-linked-list-elements/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P203S01.cpp) | Easy
 204 | [Count Primes] (https://leetcode.com/problems/count-primes/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P204S01.cpp) | Easy
+205 | [Isomorphic Strings] (https://leetcode.com/problems/isomorphic-strings/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P205S01.cpp) | Easy
 206 | [Reverse Linked List] (https://leetcode.com/problems/reverse-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P206S01.cpp) | Easy
 228 | [Summary Ranges] (https://leetcode.com/problems/summary-ranges/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P228S01.cpp) | Easy
 231 | [Power of Two] (https://leetcode.com/problems/power-of-two/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P231S01.cpp) | Easy
