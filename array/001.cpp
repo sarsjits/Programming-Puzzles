@@ -14,7 +14,7 @@ bool twoSum(vector<int>& a,int x) {
 		hmap[a[i]] = i;
 	}
 	for(int i=0;i<a.size();i++) {
-		// hmap[x-a[i]] != i is a case in which the map may return the same index
+		// hmap[x-a[i]] != i is a case in which the map may return the same index.
 		if(hmap.find(x-a[i]) != hmap.end() && hmap[x-a[i]] != i) {
 			return true;
 		}
