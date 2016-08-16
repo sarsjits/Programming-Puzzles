@@ -1,5 +1,6 @@
-// Two Sum Problem: O(n)
-// http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/
+/* Two Sum Problem
+	URL: http://bit.ly/1fOtbzi
+*/
 
 #include <iostream>
 #include <map>
@@ -7,7 +8,10 @@
 
 using namespace std;
 
-// Solution using map
+/*
+	Method 1: Using Map
+	Time Complexity: O(n)
+*/
 bool twoSum(vector<int>& a,int x) {
 	map<int,int> hmap;
 	for(int i=0;i<a.size();i++) {
@@ -24,7 +28,7 @@ bool twoSum(vector<int>& a,int x) {
 
 int main() {
 	vector<int> a = {1,2,3,4,5,6};
-	if(twoSum(a,12) == false) {
+	if(twoSum(a,11) == false) {
 		cout << "The expected sum can not be obtained.\n";
 	} else {
 		cout << "The expected sum exists.\n";
