@@ -5,11 +5,29 @@
 #include <iostream>
 #include <map>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
 /*
-	Method 1: Using Map
+	Methode 1: Using Sorting
+	Time Complexity: O(n*logn)
+*/
+
+bool twoSumSorting(vector<int> &a, int x) {
+	int start = 0;
+	int end = a.size() - 1;
+	sort(a.begin(),a.end());
+	while(start<end) {
+		if(a[start] + a[end] == x) return true;
+		else if(a[start] + a[end] < x) start++;
+		else end--;
+	}
+	return false;
+}
+
+/*
+	Method 2: Using Map
 	Time Complexity: O(n)
 */
 bool twoSum(vector<int>& a,int x) {
@@ -27,8 +45,8 @@ bool twoSum(vector<int>& a,int x) {
 }
 
 int main() {
-	vector<int> a = {1,2,3,4,5,6};
-	if(twoSum(a,11) == false) {
+	vector<int> a = {6,4,2,3,1,5};
+	if(twoSumSorting(a,12) == false) {
 		cout << "The expected sum can not be obtained.\n";
 	} else {
 		cout << "The expected sum exists.\n";
