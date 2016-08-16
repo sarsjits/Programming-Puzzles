@@ -10,7 +10,7 @@
 using namespace std;
 
 /*
-	Methode 1: Using Sorting
+	Methode 1: Using Sorting.
 	Time Complexity: O(n*logn)
 */
 
