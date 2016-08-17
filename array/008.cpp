@@ -1,6 +1,7 @@
 /* 
 	> Median of two sorted arrays of size n
 	> Since the total number of elements would be even, median would be avg of two
+	#TODO I have assumed that the return value would be an integer which is not fully correct
 	URL: http://bit.ly/17zECdh
 */
 
