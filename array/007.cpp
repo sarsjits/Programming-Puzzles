@@ -1,4 +1,7 @@
-// Merge one array of size n into another of size m+n
+/* 
+	Merge one array of size n into another of size m+n
+	URL: http://bit.ly/2bmHwY6
+*/
 
 #include <iostream>
 #include <vector>
