@@ -45,6 +45,7 @@ S.No.|Problem | Implementation | Difficulty
 234 | [Palindrome Linked List] (https://leetcode.com/problems/palindrome-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P234S01.cpp) | Easy
 237 | [Delete Node in a Linked List] (https://leetcode.com/problems/delete-node-in-a-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P237S01.cpp) | Easy
 242 | [Valid Anagram] (https://leetcode.com/problems/valid-anagram/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P242S01.cpp) | Easy
+258 | [Add Digits] (https://leetcode.com/problems/add-digits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P258S01.cpp) | Easy
 290 | [Word Pattern] (https://leetcode.com/problems/word-pattern/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P290S01.cpp) | Easy
 299 | [Bulls and Cows] (https://leetcode.com/problems/bulls-and-cows/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P299S01.cpp) | Easy
 326 | [Power of Three] (https://leetcode.com/problems/power-of-three/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P326S01.cpp) | Easy
