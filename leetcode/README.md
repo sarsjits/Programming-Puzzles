@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **49** problem's solution. The problems are mentioned in the table below:
+This repository contains **51** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -45,11 +45,14 @@ S.No.|Problem | Implementation | Difficulty
 234 | [Palindrome Linked List] (https://leetcode.com/problems/palindrome-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P234S01.cpp) | Easy
 237 | [Delete Node in a Linked List] (https://leetcode.com/problems/delete-node-in-a-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P237S01.cpp) | Easy
 242 | [Valid Anagram] (https://leetcode.com/problems/valid-anagram/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P242S01.cpp) | Easy
+258 | [Add Digits] (https://leetcode.com/problems/add-digits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P258S01.cpp) | Easy
+263 | [Ugly Number] (https://leetcode.com/problems/ugly-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P263S01.cpp) | Easy
 290 | [Word Pattern] (https://leetcode.com/problems/word-pattern/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P290S01.cpp) | Easy
+292 | [Nim Game] (https://leetcode.com/problems/nim-game/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P292S01.cpp) | Easy
 299 | [Bulls and Cows] (https://leetcode.com/problems/bulls-and-cows/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P299S01.cpp) | Easy
 326 | [Power of Three] (https://leetcode.com/problems/power-of-three/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P326S01.cpp) | Easy
 328 | [Odd Even Linked List] (https://leetcode.com/problems/odd-even-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P328S01.cpp) | Easy
-342 | [Power of Four] (https://leetcode.com/problems/power-of-four/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P342S01.cpp) | Easy
+342 | [Power of Four] (https://leetcode.com/problems/power-of-four/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P342S01.cpp), [Solution 02] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P342S02.cpp) | Easy
 371 | [Sum of Two Integers] (https://leetcode.com/problems/sum-of-two-integers/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P371S01.cpp) | Easy
 374 | [Guess Number Higher or Lower] (https://leetcode.com/problems/guess-number-higher-or-lower/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P374S01.cpp) | Easy
 387 | [First Unique Character in a String] (https://leetcode.com/problems/first-unique-character-in-a-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P387S01.cpp) | Easy
