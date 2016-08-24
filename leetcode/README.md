@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **50** problem's solution. The problems are mentioned in the table below:
+This repository contains **51** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -48,6 +48,7 @@ S.No.|Problem | Implementation | Difficulty
 258 | [Add Digits] (https://leetcode.com/problems/add-digits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P258S01.cpp) | Easy
 263 | [Ugly Number] (https://leetcode.com/problems/ugly-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P263S01.cpp) | Easy
 290 | [Word Pattern] (https://leetcode.com/problems/word-pattern/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P290S01.cpp) | Easy
+292 | [Nim Game] (https://leetcode.com/problems/nim-game/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P292S01.cpp) | Easy
 299 | [Bulls and Cows] (https://leetcode.com/problems/bulls-and-cows/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P299S01.cpp) | Easy
 326 | [Power of Three] (https://leetcode.com/problems/power-of-three/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P326S01.cpp) | Easy
 328 | [Odd Even Linked List] (https://leetcode.com/problems/odd-even-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P328S01.cpp) | Easy
