@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **51** problem's solution. The problems are mentioned in the table below:
+This repository contains **57** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -20,6 +20,7 @@ S.No.|Problem | Implementation | Difficulty
 058 | [Length of Last Word] (https://leetcode.com/problems/length-of-last-word/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P058S01.cpp) | Easy
 066 | [Plus One] (https://leetcode.com/problems/plus-one/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P066S01.cpp) | Easy 
 083 | [Remove Duplicates from Sorted List] (https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P083S01.cpp) | Easy
+088 | [Merge Sorted Array] (https://leetcode.com/problems/merge-sorted-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P088S01.cpp) | Easy
 101 | [Symmetric Tree] (https://leetcode.com/problems/symmetric-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P101S01.cpp) | Easy
 118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
 119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
@@ -47,12 +48,16 @@ S.No.|Problem | Implementation | Difficulty
 242 | [Valid Anagram] (https://leetcode.com/problems/valid-anagram/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P242S01.cpp) | Easy
 258 | [Add Digits] (https://leetcode.com/problems/add-digits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P258S01.cpp) | Easy
 263 | [Ugly Number] (https://leetcode.com/problems/ugly-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P263S01.cpp) | Easy
+283 | [Move Zeroes] (https://leetcode.com/problems/move-zeroes/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P283S01.cpp) | Easy
 290 | [Word Pattern] (https://leetcode.com/problems/word-pattern/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P290S01.cpp) | Easy
 292 | [Nim Game] (https://leetcode.com/problems/nim-game/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P292S01.cpp) | Easy
 299 | [Bulls and Cows] (https://leetcode.com/problems/bulls-and-cows/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P299S01.cpp) | Easy
 326 | [Power of Three] (https://leetcode.com/problems/power-of-three/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P326S01.cpp) | Easy
 328 | [Odd Even Linked List] (https://leetcode.com/problems/odd-even-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P328S01.cpp) | Easy
 342 | [Power of Four] (https://leetcode.com/problems/power-of-four/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P342S01.cpp), [Solution 02] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P342S02.cpp) | Easy
+344 | [Reverse String] (https://leetcode.com/problems/reverse-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P344S01.cpp) | Easy
+345 | [Reverse Vowels of a String] (https://leetcode.com/problems/reverse-vowels-of-a-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P345S01.cpp) | Easy
+349 | [Intersection of Two Arrays] (https://leetcode.com/problems/intersection-of-two-arrays/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P349S01.cpp) | Easy
 371 | [Sum of Two Integers] (https://leetcode.com/problems/sum-of-two-integers/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P371S01.cpp) | Easy
 374 | [Guess Number Higher or Lower] (https://leetcode.com/problems/guess-number-higher-or-lower/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P374S01.cpp) | Easy
 387 | [First Unique Character in a String] (https://leetcode.com/problems/first-unique-character-in-a-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P387S01.cpp) | Easy
