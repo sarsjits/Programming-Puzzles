@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **53** problem's solution. The problems are mentioned in the table below:
+This repository contains **54** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -48,6 +48,7 @@ S.No.|Problem | Implementation | Difficulty
 242 | [Valid Anagram] (https://leetcode.com/problems/valid-anagram/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P242S01.cpp) | Easy
 258 | [Add Digits] (https://leetcode.com/problems/add-digits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P258S01.cpp) | Easy
 263 | [Ugly Number] (https://leetcode.com/problems/ugly-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P263S01.cpp) | Easy
+283 | [Move Zeroes] (https://leetcode.com/problems/move-zeroes/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P283S01.cpp) | Easy
 290 | [Word Pattern] (https://leetcode.com/problems/word-pattern/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P290S01.cpp) | Easy
 292 | [Nim Game] (https://leetcode.com/problems/nim-game/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P292S01.cpp) | Easy
 299 | [Bulls and Cows] (https://leetcode.com/problems/bulls-and-cows/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P299S01.cpp) | Easy
