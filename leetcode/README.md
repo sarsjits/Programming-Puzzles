@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **57** problem's solution. The problems are mentioned in the table below:
+This repository contains **61** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -21,7 +21,10 @@ S.No.|Problem | Implementation | Difficulty
 066 | [Plus One] (https://leetcode.com/problems/plus-one/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P066S01.cpp) | Easy 
 083 | [Remove Duplicates from Sorted List] (https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P083S01.cpp) | Easy
 088 | [Merge Sorted Array] (https://leetcode.com/problems/merge-sorted-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P088S01.cpp) | Easy
+100 | [Same Tree] (https://leetcode.com/problems/same-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P100S01.cpp) | Easy
 101 | [Symmetric Tree] (https://leetcode.com/problems/symmetric-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P101S01.cpp) | Easy
+104 | [Maximum Depth of Binary Tree] (https://leetcode.com/problems/maximum-depth-of-binary-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P104S01.cpp) | Easy
+110 | [Balanced Binary Tree] (https://leetcode.com/problems/balanced-binary-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P110S01.cpp) | Easy
 118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
 119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
 125 | [Valid Palindrome] (https://leetcode.com/problems/valid-palindrome/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P125S01.cpp) | Easy
@@ -58,6 +61,7 @@ S.No.|Problem | Implementation | Difficulty
 344 | [Reverse String] (https://leetcode.com/problems/reverse-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P344S01.cpp) | Easy
 345 | [Reverse Vowels of a String] (https://leetcode.com/problems/reverse-vowels-of-a-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P345S01.cpp) | Easy
 349 | [Intersection of Two Arrays] (https://leetcode.com/problems/intersection-of-two-arrays/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P349S01.cpp) | Easy
+350 | [Intersection of Two Arrays II] (https://leetcode.com/problems/intersection-of-two-arrays-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P350S01.cpp) | Easy
 371 | [Sum of Two Integers] (https://leetcode.com/problems/sum-of-two-integers/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P371S01.cpp) | Easy
 374 | [Guess Number Higher or Lower] (https://leetcode.com/problems/guess-number-higher-or-lower/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P374S01.cpp) | Easy
 387 | [First Unique Character in a String] (https://leetcode.com/problems/first-unique-character-in-a-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P387S01.cpp) | Easy
