@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **58** problem's solution. The problems are mentioned in the table below:
+This repository contains **59** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -21,6 +21,7 @@ S.No.|Problem | Implementation | Difficulty
 066 | [Plus One] (https://leetcode.com/problems/plus-one/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P066S01.cpp) | Easy 
 083 | [Remove Duplicates from Sorted List] (https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P083S01.cpp) | Easy
 088 | [Merge Sorted Array] (https://leetcode.com/problems/merge-sorted-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P088S01.cpp) | Easy
+100 | [Same Tree] (https://leetcode.com/problems/same-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P100S01.cpp) | Easy
 101 | [Symmetric Tree] (https://leetcode.com/problems/symmetric-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P101S01.cpp) | Easy
 118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
 119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
