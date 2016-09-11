@@ -65,4 +65,4 @@ S.No.|Problem | Implementation | Difficulty
 371 | [Sum of Two Integers] (https://leetcode.com/problems/sum-of-two-integers/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P371S01.cpp) | Easy
 374 | [Guess Number Higher or Lower] (https://leetcode.com/problems/guess-number-higher-or-lower/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P374S01.cpp) | Easy
 387 | [First Unique Character in a String] (https://leetcode.com/problems/first-unique-character-in-a-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P387S01.cpp) | Easy
-392 | [Is Subsequence] (https://leetcode.com/contest/3/problems/is-subsequence/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P392S01.cpp) | Easy
+392 | [Is Subsequence] (https://leetcode.com/contest/3/problems/is-subsequence/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P392S01.cpp) | Medium
