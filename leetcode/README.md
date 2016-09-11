@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **65** problem's solution. The problems are mentioned in the table below:
+This repository contains **66** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -64,6 +64,7 @@ S.No.|Problem | Implementation | Difficulty
 350 | [Intersection of Two Arrays II] (https://leetcode.com/problems/intersection-of-two-arrays-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P350S01.cpp) | Easy
 371 | [Sum of Two Integers] (https://leetcode.com/problems/sum-of-two-integers/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P371S01.cpp) | Easy
 374 | [Guess Number Higher or Lower] (https://leetcode.com/problems/guess-number-higher-or-lower/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P374S01.cpp) | Easy
+383 | [Ransom Note] (https://leetcode.com/problems/ransom-note/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P383S01.cpp) | Easy
 387 | [First Unique Character in a String] (https://leetcode.com/problems/first-unique-character-in-a-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P387S01.cpp) | Easy
 389 | [Find the Difference] (https://leetcode.com/problems/find-the-difference/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P389S01.cpp) | Easy
 392 | [Is Subsequence] (https://leetcode.com/contest/3/problems/is-subsequence/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P392S01.cpp) | Medium
