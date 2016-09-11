@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **61** problem's solution. The problems are mentioned in the table below:
+This repository contains **62** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
