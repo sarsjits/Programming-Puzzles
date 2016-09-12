@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **67** problem's solution. The problems are mentioned in the table below:
+This repository contains **71** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -23,8 +23,11 @@ S.No.|Problem | Implementation | Difficulty
 088 | [Merge Sorted Array] (https://leetcode.com/problems/merge-sorted-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P088S01.cpp) | Easy
 100 | [Same Tree] (https://leetcode.com/problems/same-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P100S01.cpp) | Easy
 101 | [Symmetric Tree] (https://leetcode.com/problems/symmetric-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P101S01.cpp) | Easy
+102 | [Binary Tree Level Order Traversal] (https://leetcode.com/problems/binary-tree-level-order-traversal/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P102S01.cpp) | Easy
 104 | [Maximum Depth of Binary Tree] (https://leetcode.com/problems/maximum-depth-of-binary-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P104S01.cpp) | Easy
+107 | [Binary Tree Level Order Traversal II] (https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P107S01.cpp) | Easy
 110 | [Balanced Binary Tree] (https://leetcode.com/problems/balanced-binary-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P110S01.cpp) | Easy
+112 | [Path Sum] (https://leetcode.com/problems/path-sum/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P112S01.cpp) | Easy
 118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
 119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
 125 | [Valid Palindrome] (https://leetcode.com/problems/valid-palindrome/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P125S01.cpp) | Easy
@@ -48,6 +51,7 @@ S.No.|Problem | Implementation | Difficulty
 231 | [Power of Two] (https://leetcode.com/problems/power-of-two/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P231S01.cpp) | Easy
 232 | [Implement Queue using Stacks] (https://leetcode.com/problems/implement-queue-using-stacks/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P232S01.cpp) | Easy
 234 | [Palindrome Linked List] (https://leetcode.com/problems/palindrome-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P234S01.cpp) | Easy
+235 | [Lowest Common Ancestor of a Binary Search Tree] (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P235S01.cpp) | Easy
 237 | [Delete Node in a Linked List] (https://leetcode.com/problems/delete-node-in-a-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P237S01.cpp) | Easy
 242 | [Valid Anagram] (https://leetcode.com/problems/valid-anagram/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P242S01.cpp) | Easy
 258 | [Add Digits] (https://leetcode.com/problems/add-digits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P258S01.cpp) | Easy
