@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **71** problem's solution. The problems are mentioned in the table below:
+This repository contains **72** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -54,6 +54,7 @@ S.No.|Problem | Implementation | Difficulty
 235 | [Lowest Common Ancestor of a Binary Search Tree] (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P235S01.cpp) | Easy
 237 | [Delete Node in a Linked List] (https://leetcode.com/problems/delete-node-in-a-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P237S01.cpp) | Easy
 242 | [Valid Anagram] (https://leetcode.com/problems/valid-anagram/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P242S01.cpp) | Easy
+257 | [Binary Tree Paths] (https://leetcode.com/problems/binary-tree-paths/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P257S01.cpp) | Easy
 258 | [Add Digits] (https://leetcode.com/problems/add-digits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P258S01.cpp) | Easy
 263 | [Ugly Number] (https://leetcode.com/problems/ugly-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P263S01.cpp) | Easy
 283 | [Move Zeroes] (https://leetcode.com/problems/move-zeroes/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P283S01.cpp) | Easy
