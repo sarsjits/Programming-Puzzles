@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **71** problem's solution. The problems are mentioned in the table below:
+This repository contains **74** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -18,7 +18,8 @@ S.No.|Problem | Implementation | Difficulty
 028 | [Implement strStr()] (https://leetcode.com/problems/implement-strstr/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P028S01.cpp) | Easy
 038 | [Count and Say] (https://leetcode.com/problems/count-and-say/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P038S01.cpp) | Easy
 058 | [Length of Last Word] (https://leetcode.com/problems/length-of-last-word/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P058S01.cpp) | Easy
-066 | [Plus One] (https://leetcode.com/problems/plus-one/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P066S01.cpp) | Easy 
+066 | [Plus One] (https://leetcode.com/problems/plus-one/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P066S01.cpp) | Easy
+070 | [Climbing Stairs] (https://leetcode.com/problems/climbing-stairs/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P070S01.cpp) | Easy 
 083 | [Remove Duplicates from Sorted List] (https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P083S01.cpp) | Easy
 088 | [Merge Sorted Array] (https://leetcode.com/problems/merge-sorted-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P088S01.cpp) | Easy
 100 | [Same Tree] (https://leetcode.com/problems/same-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P100S01.cpp) | Easy
@@ -39,6 +40,7 @@ S.No.|Problem | Implementation | Difficulty
 189 | [Rotate Array] (https://leetcode.com/problems/rotate-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P189S01.cpp) | Easy
 190 | [Reverse Bits] (https://leetcode.com/problems/reverse-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P190S01.cpp) | Easy
 191 | [Number of 1 Bits] (https://leetcode.com/problems/number-of-1-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P191S01.cpp) | Easy
+198 | [House Robber] (https://leetcode.com/problems/house-robber/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P198S01.cpp) | Easy
 202 | [Happy Numbers] (https://leetcode.com/problems/happy-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P202S01.cpp) | Easy
 203 | [Remove Linked List Elements] (https://leetcode.com/problems/remove-linked-list-elements/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P203S01.cpp) | Easy
 204 | [Count Primes] (https://leetcode.com/problems/count-primes/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P204S01.cpp) | Easy
@@ -54,6 +56,7 @@ S.No.|Problem | Implementation | Difficulty
 235 | [Lowest Common Ancestor of a Binary Search Tree] (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P235S01.cpp) | Easy
 237 | [Delete Node in a Linked List] (https://leetcode.com/problems/delete-node-in-a-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P237S01.cpp) | Easy
 242 | [Valid Anagram] (https://leetcode.com/problems/valid-anagram/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P242S01.cpp) | Easy
+257 | [Binary Tree Paths] (https://leetcode.com/problems/binary-tree-paths/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P257S01.cpp) | Easy
 258 | [Add Digits] (https://leetcode.com/problems/add-digits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P258S01.cpp) | Easy
 263 | [Ugly Number] (https://leetcode.com/problems/ugly-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P263S01.cpp) | Easy
 283 | [Move Zeroes] (https://leetcode.com/problems/move-zeroes/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P283S01.cpp) | Easy
