@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **73** problem's solution. The problems are mentioned in the table below:
+This repository contains **74** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -40,6 +40,7 @@ S.No.|Problem | Implementation | Difficulty
 189 | [Rotate Array] (https://leetcode.com/problems/rotate-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P189S01.cpp) | Easy
 190 | [Reverse Bits] (https://leetcode.com/problems/reverse-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P190S01.cpp) | Easy
 191 | [Number of 1 Bits] (https://leetcode.com/problems/number-of-1-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P191S01.cpp) | Easy
+198 | [House Robber] (https://leetcode.com/problems/house-robber/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P198S01.cpp) | Easy
 202 | [Happy Numbers] (https://leetcode.com/problems/happy-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P202S01.cpp) | Easy
 203 | [Remove Linked List Elements] (https://leetcode.com/problems/remove-linked-list-elements/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P203S01.cpp) | Easy
 204 | [Count Primes] (https://leetcode.com/problems/count-primes/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P204S01.cpp) | Easy
