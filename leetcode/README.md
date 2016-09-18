@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **74** problem's solution. The problems are mentioned in the table below:
+This repository contains **75** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -78,3 +78,4 @@ S.No.|Problem | Implementation | Difficulty
 392 | [Is Subsequence] (https://leetcode.com/contest/3/problems/is-subsequence/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P392S01.cpp) | Medium
 396 | [Rotate Function] (https://leetcode.com/contest/3/problems/rotate-function/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P396S01.cpp) | Easy
 397 | [Integer Replacement] (https://leetcode.com/contest/3/problems/integer-replacement/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P397S01.cpp) | Easy
+400 | [Nth Digit] (https://leetcode.com/contest/3/problems/nth-digit/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P400S01.cpp) | Easy
