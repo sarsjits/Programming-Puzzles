@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **76** problem's solution. The problems are mentioned in the table below:
+This repository contains **77** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -76,8 +76,8 @@ S.No.|Problem | Implementation | Difficulty
 383 | [Ransom Note] (https://leetcode.com/problems/ransom-note/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P383S01.cpp) | Easy
 387 | [First Unique Character in a String] (https://leetcode.com/problems/first-unique-character-in-a-string/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P387S01.cpp) | Easy
 389 | [Find the Difference] (https://leetcode.com/problems/find-the-difference/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P389S01.cpp) | Easy
-392 | [Is Subsequence] (https://leetcode.com/contest/3/problems/is-subsequence/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P392S01.cpp) | Medium
-396 | [Rotate Function] (https://leetcode.com/contest/3/problems/rotate-function/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P396S01.cpp) | Easy
-397 | [Integer Replacement] (https://leetcode.com/contest/3/problems/integer-replacement/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P397S01.cpp) | Easy
-400 | [Nth Digit] (https://leetcode.com/contest/3/problems/nth-digit/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P400S01.cpp) | Easy
+392 | [Is Subsequence] (https://leetcode.com/problems/is-subsequence/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P392S01.cpp) | Medium
+396 | [Rotate Function] (https://leetcode.com/problems/rotate-function) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P396S01.cpp) | Easy
+397 | [Integer Replacement] (https://leetcode.com/problems/integer-replacement/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P397S01.cpp) | Easy
+400 | [Nth Digit] (https://leetcode.com/problems/nth-digit/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P400S01.cpp) | Easy
 401 | [Binary Watch] (https://leetcode.com/problems/binary-watch/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P401S01.cpp) | Easy
