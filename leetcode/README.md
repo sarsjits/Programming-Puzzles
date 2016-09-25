@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **79** problem's solution. The problems are mentioned in the table below:
+This repository contains **80** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -40,6 +40,7 @@ S.No.|Problem | Implementation | Difficulty
 168 | [Excel Sheet Column Title] (https://leetcode.com/problems/excel-sheet-column-title/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P168S01.cpp) | Easy
 169 | [Majority Element] (https://leetcode.com/problems/majority-element/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P169S01.cpp) | Easy
 171 | [Excel Sheet Column Number] (https://leetcode.com/problems/excel-sheet-column-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P171S01.cpp) | Easy
+172 | [Factorial Trailing Zeroes] (https://leetcode.com/problems/factorial-trailing-zeroes/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P172S01.cpp) | Easy
 189 | [Rotate Array] (https://leetcode.com/problems/rotate-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P189S01.cpp) | Easy
 190 | [Reverse Bits] (https://leetcode.com/problems/reverse-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P190S01.cpp) | Easy
 191 | [Number of 1 Bits] (https://leetcode.com/problems/number-of-1-bits/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P191S01.cpp) | Easy
