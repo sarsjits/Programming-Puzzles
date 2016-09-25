@@ -54,7 +54,7 @@ S.No.|Problem | Implementation | Difficulty
 206 | [Reverse Linked List] (https://leetcode.com/problems/reverse-linked-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P206S01.cpp) | Easy
 217 | [Contains Duplicates] (https://leetcode.com/problems/contains-duplicate/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P217S01.cpp) | Easy
 219 | [Contains Duplicate II] (https://leetcode.com/problems/contains-duplicate-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P219S01.cpp) | Easy
-225 | [Implement Stack using Queues] (https://leetcode.com/problems/Implement Stack using Queues) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P225S01.cpp) | Easy
+225 | [Implement Stack using Queues] (https://leetcode.com/problems/Implement Stack using Queues) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P225S01.cpp), [Solution 02] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P225S02.cpp) | Easy
 226 | [Invert Binary Tree] (https://leetcode.com/problems/invert-binary-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P226S01.cpp) | Easy
 228 | [Summary Ranges] (https://leetcode.com/problems/summary-ranges/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P228S01.cpp) | Easy
 231 | [Power of Two] (https://leetcode.com/problems/power-of-two/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P231S01.cpp) | Easy
