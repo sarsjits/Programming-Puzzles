@@ -31,4 +31,4 @@ public:
     bool empty() {
         return q1.empty();
     }
-};
+}; 
