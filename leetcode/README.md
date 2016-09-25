@@ -29,6 +29,7 @@ S.No.|Problem | Implementation | Difficulty
 104 | [Maximum Depth of Binary Tree] (https://leetcode.com/problems/maximum-depth-of-binary-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P104S01.cpp) | Easy
 107 | [Binary Tree Level Order Traversal II] (https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P107S01.cpp) | Easy
 110 | [Balanced Binary Tree] (https://leetcode.com/problems/balanced-binary-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P110S01.cpp) | Easy
+111 | [Minimum Depth of Binary Tree] (https://leetcode.com/problems/minimum-depth-of-binary-tree/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P111S01.cpp) | Easy
 112 | [Path Sum] (https://leetcode.com/problems/path-sum/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P112S01.cpp) | Easy
 118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
 119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
