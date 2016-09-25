@@ -32,6 +32,7 @@ S.No.|Problem | Implementation | Difficulty
 118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
 119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
 125 | [Valid Palindrome] (https://leetcode.com/problems/valid-palindrome/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P125S01.cpp) | Easy
+136 | [Single Number] (https://leetcode.com/problems/single-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P136S01.cpp) | Easy
 155 | [Min Stack] (https://leetcode.com/problems/min-stack/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P155S01.cpp) | Easy
 160 | [Intersection of Two Linked Lists] (https://leetcode.com/problems/intersection-of-two-linked-lists/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P160S01.cpp) | Easy
 168 | [Excel Sheet Column Title] (https://leetcode.com/problems/excel-sheet-column-title/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P168S01.cpp) | Easy
