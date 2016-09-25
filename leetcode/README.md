@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **77** problem's solution. The problems are mentioned in the table below:
+This repository contains **78** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -31,6 +31,7 @@ S.No.|Problem | Implementation | Difficulty
 112 | [Path Sum] (https://leetcode.com/problems/path-sum/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P112S01.cpp) | Easy
 118 | [Pascal's Triangle] (https://leetcode.com/problems/pascals-triangle/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P118S01.cpp) | Easy
 119 | [Pascal's Triangle II] (https://leetcode.com/problems/pascals-triangle-ii/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P119S01.cpp) | Easy
+121 | [Best Time to Buy and Sell Stock] (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P121S01.cpp) | Easy
 125 | [Valid Palindrome] (https://leetcode.com/problems/valid-palindrome/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P125S01.cpp) | Easy
 136 | [Single Number] (https://leetcode.com/problems/single-number/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P136S01.cpp) | Easy
 155 | [Min Stack] (https://leetcode.com/problems/min-stack/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P155S01.cpp) | Easy
