@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This repository contains **82** problem's solution. The problems are mentioned in the table below:
+This repository contains **83** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
@@ -21,6 +21,7 @@ S.No.|Problem | Implementation | Difficulty
 038 | [Count and Say] (https://leetcode.com/problems/count-and-say/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P038S01.cpp) | Easy
 058 | [Length of Last Word] (https://leetcode.com/problems/length-of-last-word/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P058S01.cpp) | Easy
 066 | [Plus One] (https://leetcode.com/problems/plus-one/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P066S01.cpp) | Easy
+067 | [Add Binary] (https://leetcode.com/problems/add-binary) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P067S01.cpp) | Easy
 070 | [Climbing Stairs] (https://leetcode.com/problems/climbing-stairs/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P070S01.cpp) | Easy 
 083 | [Remove Duplicates from Sorted List] (https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P083S01.cpp) | Easy
 088 | [Merge Sorted Array] (https://leetcode.com/problems/merge-sorted-array/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P088S01.cpp) | Easy
