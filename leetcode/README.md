@@ -1,10 +1,11 @@
 # Leetcode Solutions
 
-This repository contains **87** problem's solution. The problems are mentioned in the table below:
+This repository contains **88** problem's solution. The problems are mentioned in the table below:
 
 S.No.|Problem | Implementation | Difficulty
 --- | :---: | :---: | :---:
 001 | [Two Sum] (https://leetcode.com/problems/two-sum/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P001S01.cpp), [Solution 02] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P001S02.cpp), [Solution 03] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P001S03.cpp) | Easy
+003 | [Longest Substring Without Repeating Characters] (https://leetcode.com/problems/longest-substring-without-repeating-characters/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P003S01.cpp) | Medium
 002 | [Add Two Numbers] (https://leetcode.com/problems/add-two-numbers/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P002S01.cpp) | Medium
 006 | [ZigZag Conversion] (https://leetcode.com/problems/zigzag-conversion/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P006S01.cpp) | Easy
 007 | [Reverse Integer] (https://leetcode.com/problems/reverse-integer/) | C++: [Solution 01] (https://github.com/sarsjits/Programming-Puzzles/blob/master/leetcode/P007S01.cpp) | Easy
